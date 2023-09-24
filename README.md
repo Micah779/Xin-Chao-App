@@ -2,7 +2,7 @@
 
 Welcome to Xin Chào - a minimal yet effective app for learning basic Vietnamese vocabulary.
 
-![App Video](xinchao1.mp4)
+![App Video](xinchaogif.gif)
 
 ## Overview
 
